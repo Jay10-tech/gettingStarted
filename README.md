@@ -1,0 +1,2 @@
+# gettingStarted
+SOA automation scripts
